@@ -26,3 +26,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/coop-project-frontend/.idea
+/coop-project-frontend/.angular
+/coop-project-frontend/node-modules
+.gitignore
