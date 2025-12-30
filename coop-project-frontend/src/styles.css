@@ -3,9 +3,20 @@ body{margin: 0;
     height: 100vh;
     background-image: linear-gradient(to bottom, #191919, #230023);
     color: white;
-    font-family: sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-size: 2rem;}
+    font-size: 2rem;
+    font-family: 'embed', sans-serif;
+}
+h3{
+    color: white;
+}
+.barra_ricerca{
+    background-color: #230023;
+    padding: 12px 14px 12px 62px;
+    border: 1px solid #ccc;
+    width: 524px;
+    height: 63px;
+}
